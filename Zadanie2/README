@@ -1,0 +1,11 @@
+Zadanie 2
+
+Korzystając z serwisów
+
+https://date.nager.at/Api
+https://www.metaweather.com/api/location/523920/
+
+utwórz formularz w TkInter prezentujący jaka były temperatury w Warszawie dla określonego święta
+(Wielkanoc, Nowy Rok, Boże Ciało, Święto Pracy) (pole combi) w określonych latach (zakres lat
+wprowadzany przez formularz).
+W formularzu osadź wykres wyświetlający temperatury dla święta w ustalonym przedziale lat.
