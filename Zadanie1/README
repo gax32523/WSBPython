@@ -1,0 +1,8 @@
+Zadanie 1.
+Utwórz projekt zawierający zbiór elementów związanych z baza samochodów. Opis samochodu powinien zawierać: markę, rok
+produkcji, przebieg.
+W ramach projektu wykonaj:
+- Możliwość obsługi kolekcji danych (CRUD: create, read, update, delete)
+- Możliwość zapisu i odczytu kolekcji danych
+
+
